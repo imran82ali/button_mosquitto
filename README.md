@@ -1,6 +1,6 @@
-# Deployment
+# React Button & MQTT
 
-This is a testing Demp of MQTT mosquitto with React Button.
+This is a testing of MQTT mosquitto with React Button.
 
 
 # Getting Started with Create React App
