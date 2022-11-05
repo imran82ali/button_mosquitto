@@ -1,0 +1,9 @@
+[{"_id":"Batch 39","totaladmissions":1572},
+{"_id":"Batch 41","totaladmissions":269},
+{"_id":"Batch 40","totaladmissions":1669},
+{"_id":"Batch 38","totaladmissions":4284}]
+
+
+
+[{"_id":{"ndate":"2022-07-26","batch":"Batch 38"},"admission":9},
+{"_id":{"ndate":"2022-07-26","batch":"Batch 39"},"admission":5}
